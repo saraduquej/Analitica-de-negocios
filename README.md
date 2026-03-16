@@ -1,2 +1,2 @@
 # Analitica-de-negocios
-Aquí se encuentra una serie de modelos desarrollados en GoogleColab que se relacionan con analítica de negocios
+Este repositorio reúne ejercicios y proyectos enfocados en analítica de negocios, incluyendo análisis exploratorio de datos, desarrollo de modelos analíticos y predictivos (como árboles de decisión) y aplicaciones prácticas orientadas a la toma de decisiones empresariales basada en datos. Los análisis fueron desarrollados utilizando Google Colaboratory (Google Colab) para explorar, procesar y modelar información con el fin de generar insights útiles para la gestión y la estrategia organizacional.
